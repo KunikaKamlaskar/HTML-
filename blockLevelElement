@@ -1,0 +1,13 @@
+Block-level and Inline HTML elements
+For the default display and styling purpose in HTML, all the elements are divided into two categories:
+
+Block-level element
+Inline element
+Block-level element:
+These are the elements, which structure main part of web page, by dividing a page into coherent blocks.
+A block-level element always start with new line and takes the full width of web page, from left to right.
+These elements can contain block-level as well as inline elements.
+Following are the block-level elements in HTML.
+
+<address>, <article>, <aside>, <blockquote>, <canvas>, <dd>, <div>, <dl>, <dt>, <fieldset>, <figcaption>, <figure>, <footer>, 
+<form>, <h1>-<h6>, <header>, <hr>, <li>, <main>, <nav>, <noscript>, <ol>, <output>, <p>, <pre>, <section>, <table>, <tfoot>, <ul> and <video>
